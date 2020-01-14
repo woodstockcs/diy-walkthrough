@@ -13,7 +13,7 @@ __Part 1: Understand and solve the problem__
 - Read over the provided FRQ prompt and ask questions to be sure you fully understand the problem.
 - Choose the one method for which you will be recording a walkthrough.
 - Solve the method yourself on paper.
-- Grade yourself with the provided rubric, compare your solution to the sample solution, and make updates to your solution so that it earns all the available points.
+- Grade yourself with the provided rubric, compare your solution to the provided sample solution, and make updates to your solution so that it earns all the available points.
 - Validate your solution with a partner or teacher to be sure it's correct.
 
 __Part 2: Get to know your screen recording software__
@@ -24,12 +24,15 @@ __Part 2: Get to know your screen recording software__
 - Try embedding the webcam view.
 
 __Part 3: Prepare and record your walkthrough__
--Narrate (audio) while live coding or while showing a premade google slideshow.
-Max video length = 5 minutes.
-This does not need to be polished.
-Share to this google classroom assignment (screencastify will give you this option at the end).
-We'll watch each other's videos at the start of next class.
-Example video linked below for a different FRQ.
+- Before you start recording, open a code editor and type out all the code you will include in your recording.
+- Make the text as large as possible on your screen without causing awkward line-wraps.
+- Write an outline or script that covers each point you want to make.
+- Test yourself to be sure it's not longer than 5 minutes.
+- Make your real recording. Save it when you're done. Review it yourself.
+
+
+### How to Submit
+See google classroom.
 
 
 ### Anchor Standard
